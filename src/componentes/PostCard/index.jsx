@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import styles from "./PostCard.module.css";
 
 import React from "react";
+import Botoes from "componentes/Botoes";
 
 export default function PostCard({ post }) {
   return (
@@ -13,7 +14,7 @@ export default function PostCard({ post }) {
           alt="Imagem de capa do post"
         />
         <h2 className={styles.titulo}>{post.titulo}</h2>
-        <button className={styles.botaoLer}>Ler</button>
+        <Botoes>Ler</Botoes>
       </div>
     </Link>
   );
