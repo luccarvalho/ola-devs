@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Dev!</h1>
+<h1 align="center">Olá, Devs!</h1>
 
 <div align="center">
   <img width="600" src="src/assets/ola-devs_to_readme.gif" alt="Gif de apresentação do projeto">
@@ -6,7 +6,7 @@
 
 ## Descrição e objetivo do projeto
 
-A aplicação "Olá, Dev!", pode ser classificada como um blog pessoal.
+A aplicação "Olá, Devs!", pode ser classificada como um blog pessoal.
 
 Com diversos cards e posts com artigos sobre diversas tecnologias.
 
